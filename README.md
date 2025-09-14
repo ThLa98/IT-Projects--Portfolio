@@ -1,2 +1,2 @@
 # IT-Projects--Portfolio
-Collection of IT labs, scripts, and troubleshooting projects from my education.
+A collection of IT labs and troubleshooting projects from my education.
