@@ -27,5 +27,6 @@ Successfully installed and configured Windows operating systems, optimised perfo
 ## 📷 Screenshots  
  
 
-## 📄 Documentation  
-[Download Full Project Summary (PDF)](Windows_Installation_Project_Summary.pdf)  
+## 📄 Documentation   
+[OS Installation & Deployment (THOMAS LABELLA).docx](OS%20Installation%20&%20Deployment%20(THOMAS%20LABELLA).docx)  
+[Train User (THOMAS LABELLA).docx](Train%20User%20(THOMAS%20LABELLA).docx) 
