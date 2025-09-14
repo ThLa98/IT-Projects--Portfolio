@@ -30,6 +30,5 @@ This project was completed as part of my ICTSAS527 assessment. It simulates work
 Successfully resolved client issues within required service levels, documented all steps, and received positive feedback from users. Demonstrated ability to provide structured IT support in a service desk environment.  
 
 ## 📄 Documentation  
-- [Assessment Scenario – IT Support Simulation](ICTSAS527_Assessment_Scenario.pdf)  
-- (Add PDF summaries or notes here if available)  
+- [IT Support Simulation](IT_Support_Simulation_Project_Summary.docx)
 
