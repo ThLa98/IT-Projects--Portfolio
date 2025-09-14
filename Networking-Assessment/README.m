@@ -13,4 +13,5 @@
 **Outcome:** Functional, secure small office network with client handover.
 
 ## Screenshots
-*(Add images to this folder and reference them like `![Diagram](Network_Diagram.png)`.)*
+![Network Diagram](Network_Diagram.png)
+![Project File](SmallNetCluster_Project_Summary.pdf)
