@@ -1,17 +1,37 @@
-# Networking Assessment – Small Office Network Design & Deployment
+# Small Office Network Design & Deployment Project  
 
-**Overview:** Designed and implemented a small office network (LAN, printer setup, security) with documentation and user training.
+This project was completed as part of my Certificate III in ICT Networking. It demonstrates the design, configuration, testing, and documentation of a small office LAN for a simulated client (Red Opal Innovations).  
 
-**Tools & Technologies:** Cisco router/switch, Windows 10, DHCP, WPA2, Windows Firewall, ping/ipconfig/tracert.
+## 🔧 Tools & Technologies  
+- Router (RV215W) & Switch  
+- Windows 10  
+- TCP/IP, DHCP, HTTP  
+- WPA2 Encryption, Windows Firewall  
+- Troubleshooting tools: `ping`, `ipconfig`, `tracert`, speed test  
 
-**Key Tasks:**
-- Gathered requirements, designed topology & IP plan
-- Configured router/switch, Windows clients, and printer
-- Implemented WPA2, passwords, and firewall rules
-- Verified with ping, tracert, speed test; documented support & maintenance
+## 📌 Key Tasks  
+- Gathered and documented client requirements for a new branch office network  
+- Designed LAN topology with desktops, laptops, printer, and router  
+- Configured router, switch, and devices for connectivity and security  
+- Implemented firewall, password policies, and WPA2 encryption  
+- Developed maintenance schedule for hardware and printer  
+- Conducted connectivity and performance testing (ping, traceroute, ipconfig, speed test)  
+- Delivered printer setup and maintenance  
 
-**Outcome:** Functional, secure small office network with client handover.
+## 🛠 Skills Demonstrated  
+- LAN design and deployment  
+- Device configuration and troubleshooting  
+- Security implementation (firewall, passwords, WPA2)  
+- Network testing and validation  
+- IT documentation  
+- Client handover and sign-off  
 
-## Screenshots
+## ✅ Outcome  
+Successfully designed and deployed a functioning small office network with secure connectivity, maintenance procedures, and end-user training. The project was documented and approved with client sign-off.  
+
+## 📷 Screenshots  
 ![Network Diagram](Network_Diagram.png)
-![Project File](SmallNetCluster_Project_Summary.pdf)
+![Project File](SmallNetCluster_Project_Summary.pdf)  
+
+## 📄 Documentation  
+[Download Full Project Summary (PDF)](SmallNetCluster_Project_Summary.pdf)  
