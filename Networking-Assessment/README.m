@@ -30,8 +30,8 @@ This project was completed as part of my Certificate III in ICT Networking. It d
 Successfully designed and deployed a functioning small office network with secure connectivity, maintenance procedures, and end-user training. The project was documented and approved with client sign-off.  
 
 ## 📷 Screenshots  
-![Network Diagram](Network_Diagram.png)
-![Project File](SmallNetCluster_Project_Summary.pdf)  
+(Network_Diagram.png)
+(SmallNetCluster_Project_Summary.pdf)  
 
 ## 📄 Documentation  
 [Download Full Project Summary (PDF)](SmallNetCluster_Project_Summary.pdf)  
